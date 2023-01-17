@@ -6,7 +6,7 @@
 <i>This script uses this <a href="https://github.com/ziro-00/SecLists/blob/master/Discovery/Web-Content/common.txt">list.</a></i>
 
 <h1>How to use</h1><br>
-<br>Just enter the url.
+Just enter the url.
 
 rfind [option] [link]/RFIND<br><i>in development ...</i>
 
