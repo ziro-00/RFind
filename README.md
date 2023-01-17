@@ -1,6 +1,6 @@
 # RFind
 <i>Webpages Finder.</i>
-<i>This script uses this <a href="https://github.com/ziro-00/SecLists/blob/master/Discovery/Web-Content/common.txt">list/a></i>
+<i>This script uses this <a href="https://github.com/ziro-00/SecLists/blob/master/Discovery/Web-Content/common.txt">list</a></i>
 
 <h1>How to use</h1>
 rfind [option] [link]/RFIND
