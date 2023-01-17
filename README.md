@@ -8,7 +8,7 @@
 <h1>How to use</h1><br>
 <br>Just enter the url.
 
-rfind [option] [link]/RFIND \n<br><i>in development ...</i>
+rfind [option] [link]/RFIND<br><i>in development ...</i>
 
 <h2>Options</h2>
 
