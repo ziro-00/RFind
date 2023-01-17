@@ -1,5 +1,5 @@
 # RFind
-<i>Lite webpages finder.</i>
+<i>Webpages Finder.</i>
 
 
 <h1>How to use</h1>
