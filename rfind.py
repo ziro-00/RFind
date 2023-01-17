@@ -1,12 +1,28 @@
 import requests
 
-#examples of pages to test from common.txt (/usr/share/seclist/discovery/web-web-content)
-list = open("common.txt", "r")  #"r" <- modo leitura
+list = open("common.txt", "r")
 
+print('''
 
-#loop that walks trough the array and shows the stat code and the page name that is currently being tested
+Builded by:
+
+███████╗██╗██████╗  ██████╗        ██████╗  ██████╗ 
+╚══███╔╝██║██╔══██╗██╔═══██╗      ██╔═████╗██╔═████╗
+  ███╔╝ ██║██████╔╝██║   ██║█████╗██║██╔██║██║██╔██║
+ ███╔╝  ██║██╔══██╗██║   ██║╚════╝████╔╝██║████╔╝██║
+███████╗██║██║  ██║╚██████╔╝      ╚██████╔╝╚██████╔╝
+╚══════╝╚═╝╚═╝  ╚═╝ ╚═════╝        ╚═════╝  ╚═════╝ 
+                                                    
+                 ---- RFind ----
+                    
+    * How to use
+    * Insert url: https://www.google.com/
+
+''')
+host = input("URL: ")
+
 for item in list:
-    url = "http://websitename.com" + item.replace("\n","") # .replace("\n","") <-- serve pra dar replace no "enter" do ficheiro common.txt
+    url = host + item.replace("\n","")
     resposta = requests.get(url)
     if resposta.status_code == 200:
         print("Found: " + url)
