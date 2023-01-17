@@ -12,6 +12,6 @@ rfind [option] [link]/RFIND
 
 <ul>
     <li><b>-rc</b> Shows request codes</li><br>
-    <li><b>-c</b>  Colored option</li><i>in development ...</i><br>
+    <li><b>-c</b>  Colored option</li><i>in development ...</i><br><br>
     <li><b>-s</b>  Simple mode. Only shows available links
 </ul>
