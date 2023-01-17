@@ -15,5 +15,5 @@ rfind [option] [link]/RFIND <i>in development ...</i>
 <ul>
     <li><b>-rc</b> Shows request codes</li><i>in development ...</i><br><br>
     <li><b>-c</b>  Colored option</li><i>in development ...</i><br><br>
-    <li><b>-s</b>  Simple mode. Only shows available links<i>in development ...</i>
+    <li><b>-s</b>  Simple mode. Only shows available links<i>in development ...</i><br>
 </ul>
