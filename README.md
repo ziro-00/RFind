@@ -1,6 +1,6 @@
 # RFind
 
-
+<code>
 
 ▒███████▒ ██▓ ██▀███   ▒█████  
 ▒ ▒ ▒ ▄▀░▓██▒▓██ ▒ ██▒▒██▒  ██▒
@@ -13,7 +13,7 @@
   ░ ░     ░     ░         ░ ░  
 ░                              
 
-
+</code>
 
 <i>Webpages Finder.</i><br>
 <i>This script uses this <a href="https://github.com/ziro-00/SecLists/blob/master/Discovery/Web-Content/common.txt">list.</a></i>
