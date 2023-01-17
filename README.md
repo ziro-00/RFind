@@ -9,7 +9,7 @@
 <h1>How to use</h1>
 Just enter the url.
 
-rfind [option] [link]/RFIND<br><i>in development ...</i>
+<br>rfind [option] [link]/RFIND<br><i>in development ...</i>
 
 <h2>Options</h2>
 
