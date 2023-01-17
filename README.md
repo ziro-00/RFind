@@ -7,6 +7,8 @@ rfind (option) (link)/RFIND
 
 <h2>Options</h2>
 
--rc Shows request codes<br>
--c  Colored option<br>
--s  Simple mode. Only shows available links
+<ul>
+    <li><b>-rc</b> Shows request codes</li><br>
+    <li><b>-c</b>  Colored option</li><br>
+    <li><b>-s</b>  Simple mode. Only shows available links
+</ul>
