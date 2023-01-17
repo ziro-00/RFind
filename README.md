@@ -3,7 +3,7 @@
 
 
 <h1>How to use</h1>
-rfind (option) (link)/RFIND
+rfind [option] [link]/RFIND
 
 <h2>Options</h2>
 
