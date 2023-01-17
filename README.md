@@ -2,7 +2,7 @@
 
 
 <center>
-    <a href="http://bit.ly/3H8TuCX">
+    <img src="http://bit.ly/3H8TuCX">
 </center>
 
 <i>Webpages Finder.</i><br>
