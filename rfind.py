@@ -26,5 +26,6 @@ for item in list:
     resposta = requests.get(url)
     if resposta.status_code == 200:
         print("Found: " + url)
-    else:
-        print("Not Found: " + url + " (" + str(resposta.status_code) + ")")
+    #else:
+        #print("Not Found: " + url + " (" + str(resposta.status_code) + ")")
+    print("searching ...")
