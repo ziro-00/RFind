@@ -4,7 +4,7 @@ list = open("list.txt", "r")
 
 print('''
 
-Builded by:
+Built by:
 
 ███████╗██╗██████╗  ██████╗        ██████╗  ██████╗ 
 ╚══███╔╝██║██╔══██╗██╔═══██╗      ██╔═████╗██╔═████╗
@@ -19,7 +19,10 @@ Builded by:
     * Insert url: https://www.google.com/
 
 ''')
+
 host = input("URL: ")
+print("")
+print("searching . . .\n")
 
 for item in list:
     url = host + item.replace("\n","")
@@ -28,4 +31,3 @@ for item in list:
         print("Found: " + url)
     #else:
         #print("Not Found: " + url + " (" + str(resposta.status_code) + ")")
-    print("searching ...")
