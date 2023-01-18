@@ -1,6 +1,6 @@
 import requests
 
-list = open("common.txt", "r")
+list = open("list.txt", "r")
 
 print('''
 
