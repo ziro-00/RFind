@@ -16,7 +16,7 @@ Built by:
                  ---- RFind ----
                     
     * How to use
-    * Insert url: https://www.google.com/
+    * Insert url: https://www.example.com/
 
 ''')
 
