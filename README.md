@@ -1,6 +1,7 @@
 # RFind
 
-Built by:
+###Built by:<br>
+
 ![zirogitlogo](https://user-images.githubusercontent.com/90027705/213212085-1fa24e58-e538-4756-90cf-28bcd8f461c4.png)
 
 
