@@ -12,11 +12,19 @@ Built by:<br>
 
 <h1>Setup</h1>
 
-First install requests.py
+Git
+
+```
+$ git clone https://github.com/ziro-00/RFind/
+```
+
+Install requests.py
 
 ```
 $ python -m pip install requests
 ```
+
+
 
 <h1>How to use</h1>
 Just enter the url.
