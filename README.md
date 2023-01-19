@@ -5,8 +5,9 @@ Built by:<br>
 ![zirogitlogo](https://user-images.githubusercontent.com/90027705/213212085-1fa24e58-e538-4756-90cf-28bcd8f461c4.png)
 
 
-<i>Not Linked WebPages Finder.</i><br>
-<i>This script uses this <a href="https://github.com/ziro-00/SecLists/blob/master/Discovery/Web-Content/common.txt">list.</a></i>
+<i>Not Linked WebPages Finder.<br>
+This script uses this <a href="https://github.com/ziro-00/SecLists/blob/master/Discovery/Web-Content/common.txt">list.</a><br>
+Inspired in <a href="https://github.com/xmendez/wfuzz">wfuzz</a></i>
 
 - - -
 
@@ -40,6 +41,3 @@ Just enter the url.
 </ul>
 
 - - -
-
-Inspired in <a href="https://github.com/xmendez/wfuzz">wfuzz</a>
-
