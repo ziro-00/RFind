@@ -1,10 +1,13 @@
 # RFind
 
+Built by:
 ![zirogitlogo](https://user-images.githubusercontent.com/90027705/213212085-1fa24e58-e538-4756-90cf-28bcd8f461c4.png)
 
 
 <i>Not Linked WebPages Finder.</i><br>
 <i>This script uses this <a href="https://github.com/ziro-00/SecLists/blob/master/Discovery/Web-Content/common.txt">list.</a></i>
+
+- - -
 
 <h1>Setup</h1>
 
