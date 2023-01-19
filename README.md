@@ -38,3 +38,8 @@ Just enter the url.
     <li><b>-c</b>  Colored option</li><i>in development ...</i><br><br>
     <li><b>-s</b>  Simple mode. Only shows available links<br><i>in development ...</i>
 </ul>
+
+- - -
+
+Inspired in <a href="https://github.com/xmendez/wfuzz">wfuzz</a>
+
