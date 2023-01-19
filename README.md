@@ -6,13 +6,18 @@
 <i>Not Linked WebPages Finder.</i><br>
 <i>This script uses this <a href="https://github.com/ziro-00/SecLists/blob/master/Discovery/Web-Content/common.txt">list.</a></i>
 
+<h1>Setup</h1>
+
+First install requests.py
+
+<code>$ python -m pip install requests</code>
 
 <h1>How to use</h1>
 Just enter the url.
 
 <br>rfind [option] [link]/RFIND<br><i>in development ...</i>
 
-<h2>Options</h2>
+<h1>Options</h1>
 
 <ul>
     <li><b>-rc</b> Shows request codes</li><i>in development ...</i><br><br>
