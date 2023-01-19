@@ -12,13 +12,13 @@ Built by:<br>
 
 <h1>Setup</h1>
 
-Git
+<b>Git</b>
 
 ```
 $ git clone https://github.com/ziro-00/RFind/
 ```
 
-Install requests.py
+<b>Install requests.py</b>
 
 ```
 $ python -m pip install requests
