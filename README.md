@@ -10,7 +10,9 @@
 
 First install requests.py
 
-<code>$ python -m pip install requests</code>
+```
+$ python -m pip install requests
+```
 
 <h1>How to use</h1>
 Just enter the url.
